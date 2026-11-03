@@ -2,6 +2,8 @@
 markitdown, microsoft open source python tool, uses my dosbox for installation and testing
 
 ### recipe
+hold SHIFT + clicking the link, open URL in new browser tab  
+hold CTRL + clicking the link, open URL in new browser  
 https://github.com/microsoft/markitdown  
 https://www.ti.com/lit/ds/symlink/opa314.pdf  
 
