@@ -11,4 +11,5 @@ python -m venv .venv
 git clone https://github.com/microsoft/markitdown.git
 cd markitdown
 python -m pip install -e "packages/markitdown[all]"
+markitdown opa314.pdf -o opa314.pdf.md
 ```
