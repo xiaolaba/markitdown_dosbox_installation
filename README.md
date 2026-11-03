@@ -1,7 +1,11 @@
 # markitdown_dosbox_installation
 markitdown, microsoft open source python tool, uses my dosbox for installation and testing
 
+### recipe
+https://github.com/microsoft/markitdown  
+https://www.ti.com/lit/ds/symlink/opa314.pdf  
 
+### works to do,
 open dosbox under win10/win11  
 ```
 python -m venv .venv
